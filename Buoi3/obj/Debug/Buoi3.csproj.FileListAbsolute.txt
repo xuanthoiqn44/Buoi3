@@ -1,0 +1,7 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\obj\Debug\Buoi3.csprojResolveAssemblyReference.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Buoi3\obj\Debug\Buoi3.pdb

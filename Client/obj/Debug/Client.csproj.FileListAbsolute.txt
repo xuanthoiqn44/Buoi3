@@ -1,0 +1,10 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\bin\Debug\Client.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\bin\Debug\Client.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\bin\Debug\Client.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.Form1.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.Properties.Resources.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Buoi3\Client\obj\Debug\Client.pdb
